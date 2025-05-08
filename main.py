@@ -19,7 +19,7 @@ qr = qrcode.QRCode(
 qr.add_data(binary_data)
 qr.make(fit=False)
 
-# Генерация изображения
+# 作成
 img = qr.make_image(fill_color="black", back_color="white")
 
 # 保存
