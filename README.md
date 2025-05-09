@@ -1,6 +1,6 @@
 # QRGen
 
-This Python script generates a QR code from raw hex data extracted from レンダピック (Frenda Pick).
+This Python script generates a QR code from raw hex data extracted from フレンダピック (Frenda Pick).
 
 ## QR Code Generation Parameters
 
